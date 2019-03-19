@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Hello, wellcome to my page
+![Image of Yaktocat](https://scontent.fsgn4-1.fna.fbcdn.net/v/t1.0-9/12573135_120752224972262_2737862582156656625_n.jpg?_nc_cat=103&_nc_oc=AQnDryibBijAk_-MN7gvCHFQrQm-VYR-9ykuqCm9eps3gqu6bJ3kO_exmu1McUXu6i8&_nc_ht=scontent.fsgn4-1.fna&oh=c8a54ed3670f8cb865b84d162ccfe219&oe=5D042355)
 
-You can use the [editor on GitHub](https://github.com/caothanhhuy/1611020009huy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ THÔNG TIN CÁ NHÂN
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Tên: Cao Thành Huy
+# Ngày sinh: 06/08/1997
+# Trình độ: Đại học
+# Chuyên môn: Lập trình
+# Kinh nghiệm làm việc: chưa có
 
-### Markdown
+###### Dự án cá nhân [Click](https://github.com/caothanhhuy/1611020009huy)
+###### Facebook [Click](https://www.facebook.com/huy.sieurua)
+###### Twiter [Click](https://twitter.com/pthdat1995)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/caothanhhuy/1611020009huy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

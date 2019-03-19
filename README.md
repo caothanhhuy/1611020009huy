@@ -11,6 +11,6 @@
 
 ###### Dự án cá nhân [Click](https://github.com/caothanhhuy/1611020009huy)
 ###### Facebook [Click](https://www.facebook.com/huy.sieurua)
-###### Twiter [Click](https://twitter.com/pthdat1995)
+###### Twiter [Click](https://twitter.com)
 
 
